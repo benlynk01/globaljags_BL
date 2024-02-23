@@ -1,3 +1,5 @@
+# Updated Global Jags
+
 # GlobalJags generate_thumbnails Google Cloud Function
 This is a Google Cloud Function that will process images that were uploaded through the GlobalJags website. It will be developed in three parts.
 
